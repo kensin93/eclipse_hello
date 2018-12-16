@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("world's end dancehall");
 		System.out.println("earth's end dancehall");
 		System.out.println("Hello dance world2");
+		System.out.println("Hello dance miku");
 	}
 
 }
