@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("hello world");
 		System.out.println("world's end dancehall");
 		System.out.println("earth's end dancehall");
-		System.out.println("Hello dance world");
+		System.out.println("Hello dance miku");
 	}
 
 }
