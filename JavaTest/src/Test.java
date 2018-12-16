@@ -8,5 +8,4 @@ public class Test {
 		System.out.println("Hello dance world2");
 		System.out.println("Hello dance miku");
 	}
-
 }
